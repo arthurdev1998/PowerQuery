@@ -1,0 +1,6 @@
+@PowerQuery_HostAddress = http://localhost:5096
+
+GET {{PowerQuery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
