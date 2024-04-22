@@ -1,6 +1,6 @@
 namespace PowerQuery.Commons.Constants;
 
-public static class FactoryQueryTypes
+public static class TypeConstants
 {
     public new const string Equals = "equals";
     public const string Contains = "contains";
